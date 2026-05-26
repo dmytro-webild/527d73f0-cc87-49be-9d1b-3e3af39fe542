@@ -226,7 +226,7 @@ export default function LandingPage() {
 
   <div id="footer" data-section="footer">
       <FooterLogoReveal
-      logoSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=mrutds"
+      logoSrc="https://img.b2bpic.net/premium-photo/businessman-hand-touch-with-code-html-programming-screen-laptopprogrammer-development-computer-codeweb-design-coding-technology-software-digital-software-technology-development-iot_162459-3350.jpg?id=36825629"
       logoAlt="HexaKore Logo"
       logoText="HexaKore"
       leftLink={{
